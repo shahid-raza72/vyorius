@@ -1,0 +1,2 @@
+# this project is done using react 
+# it is not responsive page but it is a modular project i can make it responsive easily.
